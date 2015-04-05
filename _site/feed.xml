@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Long Haul - Articles</title>
-		<description>Long Form Jekyll theme built with SASS / COMPASS / SUSY</description>
-		<link>http://brianmaierjr.github.com/long-haul</link>
-		<atom:link href="http://brianmaierjr.github.com/long-haul/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<title>Miles Away - Articles</title>
+		<description>Two millennial men trying to find their way.</description>
+		<link>http://wsankey.github.com/miles-away</link>
+		<atom:link href="http://wsankey.github.com/miles-away/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
@@ -14,8 +14,8 @@
 </description>
 				
 				<pubDate>Mon, 15 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/example-post-formatting/</guid>
+				<link>http://wsankey.github.com/miles-away/blog/example-post-formatting/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/example-post-formatting/</guid>
 			</item>
 			
 		
@@ -27,8 +27,8 @@
 </description>
 				
 				<pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/featured-image/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/featured-image/</guid>
+				<link>http://wsankey.github.com/miles-away/blog/featured-image/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/featured-image/</guid>
 			</item>
 			
 		
@@ -40,8 +40,8 @@
 </description>
 				
 				<pubDate>Sat, 13 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/code-snippet/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/code-snippet/</guid>
+				<link>http://wsankey.github.com/miles-away/blog/code-snippet/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/code-snippet/</guid>
 			</item>
 			
 		
@@ -53,8 +53,8 @@
 </description>
 				
 				<pubDate>Fri, 12 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/figure-with-caption/</guid>
+				<link>http://wsankey.github.com/miles-away/blog/figure-with-caption/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/figure-with-caption/</guid>
 			</item>
 			
 		
@@ -66,8 +66,8 @@
 </description>
 				
 				<pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/image-in-post/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/image-in-post/</guid>
+				<link>http://wsankey.github.com/miles-away/blog/image-in-post/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/image-in-post/</guid>
 			</item>
 			
 		
@@ -79,8 +79,8 @@
 </description>
 				
 				<pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://brianmaierjr.github.com/long-haul/blog/test-post/</link>
-				<guid isPermaLink="true">http://brianmaierjr.github.com/long-haul/blog/test-post/</guid>
+				<link>http://wsankey.github.com/miles-away/blog/test-post/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/test-post/</guid>
 			</item>
 			
 		

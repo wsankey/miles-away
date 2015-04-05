@@ -1,5 +1,5 @@
-name: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+name: Miles Away
+description: Two millennial men trying to find their way.
 
 url: http://wsankey.github.com/miles-away
 paginate_path: "blog/page:num/"

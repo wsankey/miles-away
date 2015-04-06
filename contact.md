@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Miles Away
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
     <p class="intro">Let us know how we're doing.</p>
   </div>
-  <form action="http://formspree.io/wsankey@gmail.com" method="Post">>
+  <form action="//formspree.io/wsankey@gmail.com" method="Post">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>

@@ -9,7 +9,8 @@ title: Miles Away - A show about life.
           {% for post in paginator.posts %}
             <li>
             	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-            	<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+              <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+              <h4>{% if post.podcast %}{{ post.podcast }}{% endif %}</h4>
             	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
             </li>
           {% endfor %}

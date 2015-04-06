@@ -8,6 +8,19 @@
 		
 			
 			<item>
+				<title>Ep. 1: Miles Away</title>
+				
+					<description>&lt;p class=&quot;podcast&quot;&gt;&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/3474143/height/100/width/300/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/&quot; height=&quot;100&quot; width=&quot;300&quot; scrolling=&quot;no&quot;  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 05 Apr 2015 00:00:00 -0400</pubDate>
+				<link>http://wsankey.github.com/miles-away/blog/Ep1-MilesAway/</link>
+				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/Ep1-MilesAway/</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Example Post Formatting</title>
 				
 					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
@@ -16,71 +29,6 @@
 				<pubDate>Mon, 15 Dec 2014 00:00:00 -0500</pubDate>
 				<link>http://wsankey.github.com/miles-away/blog/example-post-formatting/</link>
 				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/example-post-formatting/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Featured Image</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/featured-image/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/featured-image/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Post With A Code Snippet</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Y&lt;/span&gt;ou&#39;ll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes! To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sat, 13 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/code-snippet/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/code-snippet/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Figure With A Caption</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 12 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/figure-with-caption/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/figure-with-caption/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Image in Post</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/image-in-post/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/image-in-post/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Test Post</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/test-post/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/test-post/</guid>
 			</item>
 			
 		

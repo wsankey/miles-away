@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ep. 1: Miles Away"
+title:  "Ep. 2: The lost episode"
 date:   2015-04-10
 podcast:
 ---

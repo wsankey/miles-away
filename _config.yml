@@ -1,7 +1,7 @@
 name: Miles Away
 description: Two millennial men trying to find their way.
 
-url: http://wsankey.github.com/miles-away
+url: http://www.miles-away.us
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 

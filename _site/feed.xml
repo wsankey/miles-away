@@ -3,32 +3,57 @@
 	<channel>
 		<title>Miles Away - Articles</title>
 		<description>Two millennial men trying to find their way.</description>
-		<link>http://wsankey.github.com/miles-away</link>
-		<atom:link href="http://wsankey.github.com/miles-away/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.miles-away.us</link>
+		<atom:link href="http://www.miles-away.us/feed.articles.xml" rel="self" type="application/rss+xml" />
 		
 			
 			<item>
-				<title>Ep. 1: Miles Away</title>
+				<title>Ep. 4: All dogs or no dogs</title>
 				
-					<description>&lt;p&gt;&lt;iframe style=&quot;border: none&quot; src=&quot;//html5-player.libsyn.com/embed/episode/id/3474143/height/360/width/320/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/&quot; height=&quot;360&quot; width=&quot;320&quot; scrolling=&quot;no&quot;  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;
-</description>
+					<description></description>
 				
-				<pubDate>Sun, 05 Apr 2015 00:00:00 -0400</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/Ep1-MilesAway/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/Ep1-MilesAway/</guid>
+				<pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
+				<link>http://www.miles-away.us/blog/EpisodeFour/</link>
+				<guid isPermaLink="true">http://www.miles-away.us/blog/EpisodeFour/</guid>
 			</item>
 			
 		
 			
 			<item>
-				<title>Example Post Formatting</title>
+				<title>Ep. 3: Our Virtual Fathers</title>
 				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+					<description>&lt;p&gt;There&amp;#39;s less serendipity to contemporary life.&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 15 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://wsankey.github.com/miles-away/blog/example-post-formatting/</link>
-				<guid isPermaLink="true">http://wsankey.github.com/miles-away/blog/example-post-formatting/</guid>
+				<pubDate>Fri, 24 Apr 2015 00:00:00 -0400</pubDate>
+				<link>http://www.miles-away.us/blog/Our-virtual-fathers/</link>
+				<guid isPermaLink="true">http://www.miles-away.us/blog/Our-virtual-fathers/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Ep. 2: The (first) lost episode</title>
+				
+					<description>&lt;p&gt;After bouncing around topics we ruminate on putting ourselves out there.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 10 Apr 2015 00:00:00 -0400</pubDate>
+				<link>http://www.miles-away.us/blog/The-Lost-Episode/</link>
+				<guid isPermaLink="true">http://www.miles-away.us/blog/The-Lost-Episode/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Ep. 1: Miles Away</title>
+				
+					<description>&lt;p&gt;Billy is moving to California.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 05 Apr 2015 00:00:00 -0400</pubDate>
+				<link>http://www.miles-away.us/blog/Ep1-MilesAway/</link>
+				<guid isPermaLink="true">http://www.miles-away.us/blog/Ep1-MilesAway/</guid>
 			</item>
 			
 		

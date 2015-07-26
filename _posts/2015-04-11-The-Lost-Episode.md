@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ep. 2: The (first) lost episode"
+title:  "The (first) lost episode"
 date:   2015-04-10
 podcast: <object type="application/x-shockwave-flash" data="https://huffduffer.com/flash/player.swf?soundFile=http://traffic.libsyn.com/willsankey/Miles_Away_002.mp3" width="290" height="24"><param name="movie" value="https://huffduffer.com/flash/player.swf?soundFile=http://traffic.libsyn.com/willsankey/Miles_Away_002.mp3" /><param name="wmode" value="transparent" /><audio src="http://traffic.libsyn.com/willsankey/Miles_Away_002.mp3" controls preload="none"><a href="https://huffduffer.com/wsankey/221832">Miles Away on Huffduffer</a></audio></object>
 ---

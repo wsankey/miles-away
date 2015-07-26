@@ -7,13 +7,13 @@ podcast: <object type="application/x-shockwave-flash" data="https://huffduffer.c
 
 Lot of irons in the fire. Turns out we were both wrong:
 
-* [Irons in the fire] [1]
+* [Irons in the fire] [4]
 * [Monsters on Maple] [2]
 * [Bars of New York] [3]
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3697032/height/360/width/640/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-[1]: http://www.urbandictionary.com/define php?term=irons+in+the+fire
+[4]: http://www.urbandictionary.com/define php?term=irons+in+the+fire
 [2]: https://en.wikipedia.org/wiki/The_Monsters_Are_Due_on_Maple_Street
 [3]: https://rememberingletters.files.wordpress.com/2011/10/usa-new-york-barn.jpg
 

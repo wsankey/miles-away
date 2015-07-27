@@ -8,5 +8,5 @@ podcast: <object type="application/x-shockwave-flash" data="https://huffduffer.c
 After bouncing around topics we ruminate on putting ourselves out there.
 
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3488960/height/360/width/640/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></p>>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/3488960/height/360/width/640/theme/standard-mini/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
